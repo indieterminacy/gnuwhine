@@ -3,7 +3,7 @@
 ###################
 
 # Make your own Gnüwhine
-# Choose from the following ingredients: krambambuli, rum, cognac, sugar, cinnamon, coffee, lemon
+# Choose from the following ingredients: krambambuli, rum, cognac, sugar, cinnamon, coffee, lemon, laxatives
 # the key is the ingredient, the value is the amount in milliliter or percentage. Example:
 # krabambuli: 70%
 # or
@@ -15,7 +15,8 @@
 # Happy Gnüwhining!
 
 
-krambambuli: 70%
+krambambuli: 60%
 rum: 20%
 lemon: 5%
 sugar: 5%
+laxatives: 10%
